@@ -1,0 +1,16 @@
+numThreadstype,time (ms)
+20,wasm-pool,5580
+20,wasm-pool,5570
+20,wasm-pool,5640
+20,wasm-pool,5570
+20,native,5520
+20,native,5520
+20,native,5580
+20,native,5550
+2,native,10190
+2,native,9760
+2,native,9730
+2,wasm-pool,10700
+2,wasm-pool,10260
+2,wasm-pool,9810
+2,wasm-pool,9830
