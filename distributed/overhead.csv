@@ -1,0 +1,602 @@
+numThreads,type,nanoseconds
+8,Native,2221056
+8,WasmMP,11046522
+8,WasmMP,10790513
+8,WasmMP,7256014
+8,WasmMP,6278208
+8,WasmMP,7128052
+8,WasmMP,7857775
+8,WasmMP,9765391
+8,WasmMP,6834363
+8,WasmMP,8332474
+8,WasmMP,8270969
+8,WasmMP,6643545
+8,WasmMP,7683462
+8,WasmMP,11325074
+8,WasmMP,7026394
+8,WasmMP,6839141
+8,WasmMP,6389090
+8,WasmMP,12240445
+8,WasmMP,12289970
+8,WasmMP,10772723
+8,WasmMP,10244531
+8,WasmMP,5236857
+8,WasmMP,6519281
+8,WasmMP,8227233
+8,WasmMP,8397725
+8,WasmMP,6095217
+8,WasmMP,5746540
+8,WasmMP,6630482
+8,WasmMP,6702298
+8,WasmMP,6083561
+8,WasmMP,5705924
+8,WasmMP,7011524
+8,WasmMP,7294473
+8,WasmMP,8064780
+8,WasmMP,9104819
+8,WasmMP,5969000
+8,WasmMP,6611929
+8,WasmMP,10828960
+8,WasmMP,7291585
+8,WasmMP,9091578
+8,WasmMP,6104568
+8,WasmMP,5960976
+8,WasmMP,9219820
+8,WasmMP,6012598
+8,WasmMP,6062049
+8,WasmMP,10426147
+8,WasmMP,8807294
+8,WasmMP,6252004
+8,WasmMP,7817016
+8,WasmMP,9006774
+8,WasmMP,9683047
+8,WasmMP,11602778
+8,WasmMP,11487355
+8,WasmMP,10317464
+8,WasmMP,6269524
+8,WasmMP,6039778
+8,WasmMP,5638289
+8,WasmMP,9031875
+8,WasmMP,8057595
+8,WasmMP,6082193
+8,WasmMP,10891735
+8,WasmMP,8807883
+8,WasmMP,10175576
+8,WasmMP,10505260
+8,WasmMP,7816682
+8,WasmMP,7347088
+8,WasmMP,6572663
+8,WasmMP,6124635
+8,WasmMP,8489047
+8,WasmMP,9634231
+8,WasmMP,10538657
+8,WasmMP,10674727
+8,WasmMP,10340023
+8,WasmMP,9033769
+8,WasmMP,9854538
+8,WasmMP,10759520
+8,WasmMP,8388046
+8,WasmMP,9011978
+8,WasmMP,7707669
+8,WasmMP,6105146
+8,WasmMP,5470927
+8,WasmMP,6845053
+8,WasmMP,6553989
+8,WasmMP,6015564
+8,WasmMP,9132843
+8,WasmMP,9998340
+8,WasmMP,11014356
+8,WasmMP,8851593
+8,WasmMP,5350716
+8,WasmMP,5602293
+8,WasmMP,8588997
+8,WasmMP,11118454
+8,WasmMP,10483080
+8,WasmMP,11226971
+8,WasmMP,10230415
+8,WasmMP,10453686
+8,WasmMP,9831874
+8,WasmMP,9634613
+8,WasmMP,5918451
+8,WasmMP,6661141
+8,WasmMP,6989460
+8,WasmMP,9690638
+8,WasmMP,8466428
+8,WasmMP,6859183
+8,WasmMP,6288681
+8,WasmMP,6905932
+8,WasmMP,6069814
+8,WasmMP,6470845
+8,WasmMP,6105464
+8,WasmMP,7108191
+8,WasmMP,7246637
+8,WasmMP,5701005
+8,WasmMP,6616904
+8,WasmMP,7054204
+8,WasmMP,5780689
+8,WasmMP,7270557
+8,WasmMP,7942300
+8,WasmMP,6170383
+8,WasmMP,10959968
+8,WasmMP,10114632
+8,WasmMP,10507645
+8,WasmMP,9371027
+8,WasmMP,8095681
+8,WasmMP,8926364
+8,WasmMP,8721373
+8,WasmMP,7262790
+8,WasmMP,7435925
+8,WasmMP,5880069
+8,WasmMP,8285052
+8,WasmMP,6641472
+8,WasmMP,6150639
+8,WasmMP,8754877
+8,WasmMP,11145286
+8,WasmMP,9924831
+8,WasmMP,6651328
+8,WasmMP,6008456
+8,WasmMP,10391152
+8,WasmMP,10921007
+8,WasmMP,9722551
+8,WasmMP,8094912
+8,WasmMP,6244632
+8,WasmMP,9952265
+8,WasmMP,8466065
+8,WasmMP,6817093
+8,WasmMP,9204674
+8,WasmMP,6740044
+8,WasmMP,6314586
+8,WasmMP,10084111
+8,WasmMP,7933893
+8,WasmMP,5663804
+8,WasmMP,6536198
+8,WasmMP,9601787
+8,WasmMP,8632991
+8,WasmMP,8690087
+8,WasmMP,10148127
+8,WasmMP,7427566
+8,WasmMP,5756460
+8,WasmMP,8164463
+8,WasmMP,9846194
+8,WasmMP,6529108
+8,WasmMP,11396446
+8,WasmMP,10167007
+8,WasmMP,6738461
+8,WasmMP,5879488
+8,WasmMP,6659972
+8,WasmMP,7409001
+8,WasmMP,8796735
+8,WasmMP,7972902
+8,WasmMP,6934577
+8,WasmMP,6922818
+8,WasmMP,10132982
+8,WasmMP,7768131
+8,WasmMP,6779869
+8,WasmMP,11200686
+8,WasmMP,11513920
+8,WasmMP,10736212
+8,WasmMP,8132143
+8,WasmMP,11410359
+8,WasmMP,10440876
+8,WasmMP,9946927
+8,WasmMP,8727506
+8,WasmMP,11695603
+8,WasmMP,11403972
+8,WasmMP,10680702
+8,WasmMP,10775155
+8,WasmMP,5953885
+8,WasmMP,6464086
+8,WasmMP,11101256
+8,WasmMP,9810084
+8,WasmMP,10394354
+8,WasmMP,6706662
+8,WasmMP,6940648
+8,WasmMP,9815196
+8,WasmMP,8379598
+8,WasmMP,7459651
+8,WasmMP,10669679
+8,WasmMP,10611858
+8,WasmMP,8343389
+8,WasmMP,7856713
+8,WasmMP,9608816
+8,WasmMP,7555134
+8,Faasm local snap,98272388
+8,Faasm local snap,68677948
+8,Faasm local snap,61993420
+8,Faasm local snap,63946695
+8,Faasm local snap,55407283
+8,Faasm local snap,54352424
+8,Faasm local snap,57490825
+8,Faasm local snap,53843877
+8,Faasm local snap,55254171
+8,Faasm local snap,56305117
+8,Faasm local snap,59968067
+8,Faasm local snap,62057028
+8,Faasm local snap,60395390
+8,Faasm local snap,64062407
+8,Faasm local snap,61855592
+8,Faasm local snap,60949835
+8,Faasm local snap,57120431
+8,Faasm local snap,55472225
+8,Faasm local snap,58409564
+8,Faasm local snap,61116488
+8,Faasm local snap,55078692
+8,Faasm local snap,59356343
+8,Faasm local snap,58100806
+8,Faasm local snap,58653310
+8,Faasm local snap,59114821
+8,Faasm local snap,56587364
+8,Faasm local snap,55427122
+8,Faasm local snap,58238616
+8,Faasm local snap,53247786
+8,Faasm local snap,53931898
+8,Faasm local snap,60086106
+8,Faasm local snap,55645092
+8,Faasm local snap,65416412
+8,Faasm local snap,71227033
+8,Faasm local snap,66625050
+8,Faasm local snap,63619864
+8,Faasm local snap,56868551
+8,Faasm local snap,62533145
+8,Faasm local snap,61185479
+8,Faasm local snap,68035242
+8,Faasm local snap,60907127
+8,Faasm local snap,61678193
+8,Faasm local snap,63935800
+8,Faasm local snap,78921214
+8,Faasm local snap,55915283
+8,Faasm local snap,56882916
+8,Faasm local snap,59866752
+8,Faasm local snap,56598514
+8,Faasm local snap,53965873
+8,Faasm local snap,55234797
+8,Faasm local snap,57717086
+8,Faasm local snap,54820734
+8,Faasm local snap,54496560
+8,Faasm local snap,57327275
+8,Faasm local snap,59265683
+8,Faasm local snap,65911001
+8,Faasm local snap,57037672
+8,Faasm local snap,63016631
+8,Faasm local snap,63960893
+8,Faasm local snap,60184927
+8,Faasm local snap,68468185
+8,Faasm local snap,70595302
+8,Faasm local snap,58963913
+8,Faasm local snap,59004941
+8,Faasm local snap,59276943
+8,Faasm local snap,65001954
+8,Faasm local snap,57471658
+8,Faasm local snap,60359965
+8,Faasm local snap,58254489
+8,Faasm local snap,55884225
+8,Faasm local snap,56466502
+8,Faasm local snap,59149531
+8,Faasm local snap,63614180
+8,Faasm local snap,66623949
+8,Faasm local snap,54753126
+8,Faasm local snap,61143793
+8,Faasm local snap,56102446
+8,Faasm local snap,59213313
+8,Faasm local snap,55902726
+8,Faasm local snap,55156925
+8,Faasm local snap,55875580
+8,Faasm local snap,51415994
+8,Faasm local snap,51375761
+8,Faasm local snap,54509332
+8,Faasm local snap,53490811
+8,Faasm local snap,60425015
+8,Faasm local snap,67565766
+8,Faasm local snap,62837115
+8,Faasm local snap,53721027
+8,Faasm local snap,55453582
+8,Faasm local snap,53343545
+8,Faasm local snap,55497448
+8,Faasm local snap,62801381
+8,Faasm local snap,64933519
+8,Faasm local snap,53180029
+8,Faasm local snap,56598877
+8,Faasm local snap,53848950
+8,Faasm local snap,56999534
+8,Faasm local snap,51714714
+8,Faasm local snap,57922945
+8,Faasm local snap,55586209
+8,Faasm local snap,54963289
+8,Faasm local snap,51653149
+8,Faasm local snap,55114933
+8,Faasm local snap,52163105
+8,Faasm local snap,53452346
+8,Faasm local snap,69404928
+8,Faasm local snap,58949823
+8,Faasm local snap,60192266
+8,Faasm local snap,75457985
+8,Faasm local snap,55221370
+8,Faasm local snap,67821273
+8,Faasm local snap,53932641
+8,Faasm local snap,54036965
+8,Faasm local snap,54540880
+8,Faasm local snap,51483984
+8,Faasm local snap,51508722
+8,Faasm local snap,57529606
+8,Faasm local snap,54105952
+8,Faasm local snap,58331933
+8,Faasm local snap,60023226
+8,Faasm local snap,52630106
+8,Faasm local snap,55388001
+8,Faasm local snap,64646462
+8,Faasm local snap,53992702
+8,Faasm local snap,55727614
+8,Faasm local snap,58261410
+8,Faasm local snap,56813120
+8,Faasm local snap,59365237
+8,Faasm local snap,57371411
+8,Faasm local snap,53360863
+8,Faasm local snap,54233035
+8,Faasm local snap,58096874
+8,Faasm local snap,56074402
+8,Faasm local snap,67447285
+8,Faasm local snap,57046456
+8,Faasm local snap,58570671
+8,Faasm local snap,58428280
+8,Faasm local snap,59744577
+8,Faasm local snap,62556730
+8,Faasm local snap,62479385
+8,Faasm local snap,66688070
+8,Faasm local snap,68735561
+8,Faasm local snap,67464537
+8,Faasm local snap,69176078
+8,Faasm local snap,63888259
+8,Faasm local snap,63857855
+8,Faasm local snap,62482923
+8,Faasm local snap,59140983
+8,Faasm local snap,63285781
+8,Faasm local snap,64162556
+8,Faasm local snap,67553819
+8,Faasm local snap,60000467
+8,Faasm local snap,55602398
+8,Faasm local snap,128050030
+8,Faasm local snap,117380642
+8,Faasm local snap,119770162
+8,Faasm local snap,118987966
+8,Faasm local snap,109355665
+8,Faasm local snap,129537223
+8,Faasm local snap,112639235
+8,Faasm local snap,122745661
+8,Faasm local snap,110041995
+8,Faasm local snap,121410272
+8,Faasm local snap,113594356
+8,Faasm local snap,114848964
+8,Faasm local snap,114403769
+8,Faasm local snap,118805515
+8,Faasm local snap,116287437
+8,Faasm local snap,116587742
+8,Faasm local snap,132696473
+8,Faasm local snap,119990583
+8,Faasm local snap,121001184
+8,Faasm local snap,116309937
+8,Faasm local snap,116616701
+8,Faasm local snap,115771068
+8,Faasm local snap,126232080
+8,Faasm local snap,112356805
+8,Faasm local snap,116040060
+8,Faasm local snap,113173974
+8,Faasm local snap,120045654
+8,Faasm local snap,115284917
+8,Faasm local snap,117435617
+8,Faasm local snap,116018213
+8,Faasm local snap,111993993
+8,Faasm local snap,126790381
+8,Faasm local snap,115587900
+8,Faasm local snap,120822852
+8,Faasm local snap,118726032
+8,Faasm local snap,140139076
+8,Faasm local snap,117740248
+8,Faasm local snap,113605777
+8,Faasm local snap,136824438
+8,Faasm local snap,127452744
+8,Faasm local snap,135594475
+8,Faasm local snap,120341136
+8,Faasm local snap,131411337
+8,Faasm local snap,115065339
+8,Faasm local snap,132313288
+8,Faasm local snap,119905816
+8,Faasm remote snap,128550217
+8,Faasm remote snap,129324102
+8,Faasm remote snap,127174814
+8,Faasm remote snap,120344507
+8,Faasm remote snap,127299417
+8,Faasm remote snap,123499789
+8,Faasm remote snap,141352406
+8,Faasm remote snap,126747125
+8,Faasm remote snap,126614021
+8,Faasm remote snap,121068301
+8,Faasm remote snap,132921792
+8,Faasm remote snap,128637174
+8,Faasm remote snap,146281549
+8,Faasm remote snap,135134853
+8,Faasm remote snap,126961926
+8,Faasm remote snap,127393912
+8,Faasm remote snap,134574197
+8,Faasm remote snap,129299415
+8,Faasm remote snap,126850752
+8,Faasm remote snap,125293108
+8,Faasm remote snap,135808730
+8,Faasm remote snap,126869399
+8,Faasm remote snap,130784342
+8,Faasm remote snap,124581535
+8,Faasm remote snap,139510659
+8,Faasm remote snap,130165592
+8,Faasm remote snap,126661518
+8,Faasm remote snap,128304260
+8,Faasm remote snap,131371807
+8,Faasm remote snap,133221371
+8,Faasm remote snap,128217899
+8,Faasm remote snap,131773517
+8,Faasm remote snap,124268427
+8,Faasm remote snap,120018223
+8,Faasm remote snap,123428582
+8,Faasm remote snap,133015133
+8,Faasm remote snap,131492131
+8,Faasm remote snap,130343739
+8,Faasm remote snap,131210466
+8,Faasm remote snap,124938213
+8,Faasm remote snap,130846244
+8,Faasm remote snap,128926550
+8,Faasm remote snap,129698835
+8,Faasm remote snap,129354438
+8,Faasm remote snap,122413523
+8,Faasm remote snap,121547639
+8,Faasm remote snap,133883473
+8,Faasm remote snap,132952506
+8,Faasm remote snap,121673533
+8,Faasm remote snap,121799132
+8,Faasm remote snap,133298347
+8,Faasm remote snap,143113153
+8,Faasm remote snap,122606755
+8,Faasm remote snap,124785901
+8,Faasm remote snap,126687955
+8,Faasm remote snap,120891796
+8,Faasm remote snap,122266417
+8,Faasm remote snap,127148806
+8,Faasm remote snap,131678450
+8,Faasm remote snap,132430062
+8,Faasm remote snap,121127357
+8,Faasm remote snap,123212584
+8,Faasm remote snap,124859710
+8,Faasm remote snap,126521514
+8,Faasm remote snap,125316938
+8,Faasm remote snap,122697961
+8,Faasm remote snap,124615360
+8,Faasm remote snap,123378730
+8,Faasm remote snap,128783048
+8,Faasm remote snap,124039346
+8,Faasm remote snap,127033928
+8,Faasm remote snap,123197813
+8,Faasm remote snap,123962581
+8,Faasm remote snap,124825835
+8,Faasm remote snap,136143969
+8,Faasm remote snap,125414324
+8,Faasm remote snap,131143895
+8,Faasm remote snap,121340721
+8,Faasm remote snap,133579422
+8,Faasm remote snap,125657653
+8,Faasm remote snap,127890808
+8,Faasm remote snap,128870214
+8,Faasm remote snap,137105740
+8,Faasm remote snap,133479348
+8,Faasm remote snap,119354052
+8,Faasm remote snap,127463401
+8,Faasm remote snap,123579178
+8,Faasm remote snap,131197036
+8,Faasm remote snap,125966094
+8,Faasm remote snap,128008843
+8,Faasm remote snap,120806777
+8,Faasm remote snap,142716401
+8,Faasm remote snap,122106177
+8,Faasm remote snap,124907149
+8,Faasm remote snap,127820270
+8,Faasm remote snap,130090868
+8,Faasm remote snap,125775884
+8,Faasm remote snap,135051359
+8,Faasm remote snap,127412901
+8,Faasm remote snap,124868205
+8,Faasm remote snap,127213642
+8,Faasm remote snap,133834733
+8,Faasm remote snap,126847599
+8,Faasm remote snap,124373034
+8,Faasm remote snap,155483366
+8,Faasm remote snap,119852290
+8,Faasm remote snap,120158089
+8,Faasm remote snap,118537481
+8,Faasm remote snap,131431884
+8,Faasm remote snap,126329280
+8,Faasm remote snap,128418898
+8,Faasm remote snap,132466787
+8,Faasm remote snap,131020118
+8,Faasm remote snap,125222432
+8,Faasm remote snap,128178044
+8,Faasm remote snap,123825046
+8,Faasm remote snap,123146510
+8,Faasm remote snap,136956417
+8,Faasm remote snap,131123880
+8,Faasm remote snap,128554684
+8,Faasm remote snap,126655359
+8,Faasm remote snap,127646087
+8,Faasm remote snap,135199203
+8,Faasm remote snap,127035983
+8,Faasm remote snap,127700175
+8,Faasm remote snap,145187164
+8,Faasm remote snap,121154915
+8,Faasm remote snap,125934586
+8,Faasm remote snap,123228695
+8,Faasm remote snap,127524955
+8,Faasm remote snap,124367461
+8,Faasm remote snap,121592248
+8,Faasm remote snap,123009539
+8,Faasm remote snap,123935700
+8,Faasm remote snap,127154663
+8,Faasm remote snap,138525472
+8,Faasm remote snap,120193029
+8,Faasm remote snap,119868964
+8,Faasm remote snap,124452082
+8,Faasm remote snap,122926370
+8,Faasm remote snap,131230195
+8,Faasm remote snap,120387937
+8,Faasm remote snap,125556453
+8,Faasm remote snap,132956430
+8,Faasm remote snap,133670550
+8,Faasm remote snap,120446493
+8,Faasm remote snap,132152606
+8,Faasm remote snap,119460451
+8,Faasm remote snap,127312304
+8,Faasm remote snap,128328150
+8,Faasm remote snap,124942232
+8,Faasm remote snap,132453200
+8,Faasm remote snap,121699523
+8,Faasm remote snap,137211911
+8,Faasm remote snap,135337636
+8,Faasm remote snap,179381326
+8,Faasm remote snap,179474907
+8,Faasm remote snap,178212150
+8,Faasm remote snap,182433373
+8,Faasm remote snap,170854631
+8,Faasm remote snap,175721576
+8,Faasm remote snap,180349262
+8,Faasm remote snap,190549720
+8,Faasm remote snap,180946346
+8,Faasm remote snap,174143829
+8,Faasm remote snap,188190509
+8,Faasm remote snap,188032700
+8,Faasm remote snap,179638328
+8,Faasm remote snap,185117056
+8,Faasm remote snap,194628825
+8,Faasm remote snap,186269629
+8,Faasm remote snap,185293354
+8,Faasm remote snap,180036708
+8,Faasm remote snap,181426268
+8,Faasm remote snap,186237298
+8,Faasm remote snap,178971140
+8,Faasm remote snap,189395223
+8,Faasm remote snap,180922958
+8,Faasm remote snap,179289382
+8,Faasm remote snap,186051041
+8,Faasm remote snap,186136297
+8,Faasm remote snap,175931664
+8,Faasm remote snap,188548999
+8,Faasm remote snap,176695877
+8,Faasm remote snap,179089806
+8,Faasm remote snap,183472006
+8,Faasm remote snap,185081992
+8,Faasm remote snap,186851847
+8,Faasm remote snap,178019894
+8,Faasm remote snap,179523913
+8,Faasm remote snap,182174098
+8,Faasm remote snap,185293335
+8,Faasm remote snap,177966955
+8,Faasm remote snap,183665130
+8,Faasm remote snap,177960266
+8,Faasm remote snap,199125382
+8,Faasm remote snap,183361308
+8,Faasm remote snap,180492073
+8,Faasm remote snap,184501533
+8,Faasm remote snap,183661571
